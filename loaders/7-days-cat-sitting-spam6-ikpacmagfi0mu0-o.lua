@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/7-days-cat-sitting-spam6-ikpacmagfi0mu0.lua"))()
