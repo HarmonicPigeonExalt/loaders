@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/murder-mystery-duels-spam3-x588hcw0gxsw25.lua"))()
