@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/football-fusion-3-spam3-cx3zs4nngpz0v5.lua"))()
