@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/make-ramen-to-get-rich-release-spam6-qh36pbwoig1kxl.lua"))()
