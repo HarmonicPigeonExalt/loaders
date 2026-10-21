@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/new-zombie-air-force-spam7-d667k3k5hh8tol.lua"))()
