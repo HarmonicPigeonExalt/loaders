@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/wave-defense-swordburst-2-spam1-9dvf1tshkz9akd.lua"))()
