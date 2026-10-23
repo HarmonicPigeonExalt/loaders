@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/eat-everything-in-a-grocery-store-spam3-p8ttliotl16xe3.lua"))()
