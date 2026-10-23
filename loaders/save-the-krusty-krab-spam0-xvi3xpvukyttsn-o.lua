@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/save-the-krusty-krab-spam0-xvi3xpvukyttsn.lua"))()
