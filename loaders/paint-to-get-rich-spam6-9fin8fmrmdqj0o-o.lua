@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/paint-to-get-rich-spam6-9fin8fmrmdqj0o.lua"))()
