@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/car-driving-indonesia-spam2-tfk7a5uqo5n1e0.lua"))()
