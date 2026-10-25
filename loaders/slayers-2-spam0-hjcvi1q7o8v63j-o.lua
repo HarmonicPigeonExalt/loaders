@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/slayers-2-spam0-hjcvi1q7o8v63j.lua"))()
