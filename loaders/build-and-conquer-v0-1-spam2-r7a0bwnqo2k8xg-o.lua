@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/build-and-conquer-v0-1-spam2-r7a0bwnqo2k8xg.lua"))()
