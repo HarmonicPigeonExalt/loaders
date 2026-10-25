@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/event-solve-the-cube-spam6-tgny4ltpo91nox.lua"))()
