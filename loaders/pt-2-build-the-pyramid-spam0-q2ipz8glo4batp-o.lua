@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/pt-2-build-the-pyramid-spam0-q2ipz8glo4batp.lua"))()
